@@ -2,3 +2,5 @@
 secrets.yaml
 .env
 data/private
+_render/_parts
+_render/_papermills
