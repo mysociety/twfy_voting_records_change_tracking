@@ -1,0 +1,5 @@
+mysql-connector-python
+lxml
+html5lib
+ptitprince==0.2.5
+git+https://github.com/ajparsons/everypolitician-popolo-python
