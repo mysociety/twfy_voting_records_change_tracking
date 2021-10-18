@@ -36,27 +36,25 @@ The following MPs are the ten who had their similarlity with their party decreas
 
 | name | party | start_year | change |
 | :--- | :--- | :--- | :--- |
-| lindsay_hoyle | speaker | 1997 | 0.51 |
 | neale_hanvey | alba | 2019 | 0.33 |
-| preet_kaur_gill | labourco-operative | 2017 | 0.15 |
+| lindsay_hoyle | speaker | 1997 | 0.16 |
 | alistair_carmichael | liberal-democrat | 2001 | 0.14 |
-| mohammad_yasin | labour | 2017 | 0.12 |
-| carla_lockhart | dup | 2016 | 0.11 |
+| dan_carden | labour | 2017 | 0.12 |
 | matt_rodda | labour | 2017 | 0.11 |
-| dan_carden | labour | 2017 | 0.11 |
-| janet_daby | labour | 2018 | 0.10 |
-| colleen_fletcher | labour | 2015 | 0.08 |
+| emma_hardy | labour | 2017 | 0.10 |
+| preet_kaur_gill | labourco-operative | 2017 | 0.10 |
+| stephen_morgan | labour | 2017 | 0.10 |
+| matt_western | labour | 2017 | 0.09 |
+| janet_daby | labour | 2018 | 0.09 |
 
 
 
 
-Generally these distances are small and will be explained by the overall party record in one or two policies being more similar to this MPs record than the record of their cohort. The two large changes that needed more investigation were for Lindsay Hoyle (the current speaker) and Neale Hanvey (A SNP MP who moved to Alba).
+Generally these distances are small and will be explained by the overall party record in one or two policies being more similar to this MPs record than the record of their cohort. The largest change that needs investigating is Neale Hanvey - who moved from the SNP to Alba in March 2021.
 
-As party comparison information is suppressed for single member parties like the speaker, this distance doesn't matter, but is explained by the fact that while the speaker didn't take part in votes, they did take part in votes in the past when there *was* a different speaker, and these votes are now highlighted as a difference from the party record when they weren't before. This highlights the complexity of handling party change information, but in this case there is no difference in what is displayed to the user. 
+This MP was being compared as a member of a two person person party, whereas the new approach compared him to the SNP record with a disclaimer they are being compared to their original party. As they are being compared to a larger party rather than a very small party, the change seems large.
 
-In Neale Hanvey's case he was being compared as a member of a one person party, whereas the new approach compared him to the SNP record with a disclaimer they are being compared to their original party. Because they are moving from an effective difference to the party of 0, the change appears large.
-
-A previous iteration also indicated a change for [Jeffrey M. Donaldson](https://www.theyworkforyou.com/mp/10172/jeffrey_m._donaldson/lagan_valley). This resulted from a change in how party-switchers were being compared (from current to original party). As this MP switched parties in 2003, the majority of his voting history is covered by his new party, and so he was added to a group of party-switchers that are compared to their current party. 
+A previous iteration also indicated a change for [Jeffrey M. Donaldson](https://www.theyworkforyou.com/mp/10172/jeffrey_m._donaldson/lagan_valley). This resulted from a change in how party-switchers were being compared (from current to original party). As this MP switched parties in 2003, the majority of his voting history is covered by his new party, and so he was added to a group of party-switchers that are compared to their current party. This may also be an appropriate action for the two Alba MPs, both elected in 2019, who will reach the cross-over point when they have been Alba MPs longer in 2022.
 
 # Effect of election cohort
 
@@ -90,19 +88,19 @@ Policies are grouped into different areas. Averaging out the change found this c
 
 | policy-group | change |
 | :--- | :--- |
-| foreignpolicy | -0.127 |
-| misc | -0.084 |
+| foreignpolicy | -0.121 |
 | business | -0.083 |
-| education | -0.079 |
-| reform | -0.077 |
-| taxation | -0.051 |
+| misc | -0.080 |
+| education | -0.077 |
+| reform | -0.071 |
+| taxation | -0.050 |
 | environment | -0.042 |
-| home | -0.024 |
-| social | -0.023 |
-| transport | -0.015 |
-| health | -0.004 |
+| home | -0.020 |
+| transport | -0.016 |
+| health | -0.008 |
+| social | -0.000 |
 | welfare | 0.000 |
-| housing | 0.004 |
+| housing | 0.002 |
 
 
 
@@ -111,4 +109,4 @@ Policies are grouped into different areas. Averaging out the change found this c
 
 The planned intervention has the expected effect of moving MPs closer to the party and reducing the number of differences highlighted. The effect will be largest for more recent cohorts. 
 
-The review process discovered an outlier (Donaldson) whose party record would become harder to interpret as a result of the change. This was addressed by a change to the process.
+The review process discovered an outlier (Donaldson) whose party record would become harder to interpret as a result of the change. This was addressed by a change to the process, which may be useful for the two Alba MPs in the near future.
