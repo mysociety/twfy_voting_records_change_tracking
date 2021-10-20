@@ -54,7 +54,7 @@ Generally these distances are small and will be explained by the overall party r
 
 This MP was being compared as a member of a two person person party, whereas the new approach compared him to the SNP record with a disclaimer they are being compared to their original party. As they are being compared to a larger party rather than a very small party, the change seems large.
 
-A previous iteration also indicated a change for [Jeffrey M. Donaldson](https://www.theyworkforyou.com/mp/10172/jeffrey_m._donaldson/lagan_valley). This resulted from a change in how party-switchers were being compared (from current to original party). As this MP switched parties in 2003, the majority of his voting history is covered by his new party, and so he was added to a group of party-switchers that are compared to their current party. This may also be an appropriate action for the two Alba MPs, both elected in 2019, who will reach the cross-over point when they have been Alba MPs longer in 2022.
+A previous iteration also indicated a change for [Jeffrey M. Donaldson](https://www.theyworkforyou.com/mp/10172/jeffrey_m._donaldson/lagan_valley). This resulted from a change in how party-switchers were being compared (from current to original party). As this MP switched parties in 2003, the majority of his voting history is covered by his new party, and so he was added to a group of party-switchers that are compared to their current party. This may also be an appropriate action for the two Alba MPs, both elected in 2019, who will reach the cross-over point when they have been Alba MPs longer in 2022. [Update: have done this]
 
 # Effect of election cohort
 
@@ -109,4 +109,4 @@ Policies are grouped into different areas. Averaging out the change found this c
 
 The planned intervention has the expected effect of moving MPs closer to the party and reducing the number of differences highlighted. The effect will be largest for more recent cohorts. 
 
-The review process discovered an outlier (Donaldson) whose party record would become harder to interpret as a result of the change. This was addressed by a change to the process, which may be useful for the two Alba MPs in the near future.
+The review process discovered an outlier (Donaldson) whose party record would become harder to interpret as a result of the change. This was addressed by a change to the process, which may be useful for the two Alba MPs in the near future.  [Update: have done this]
