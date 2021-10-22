@@ -18,7 +18,7 @@ After making the change and re-running policy calculations, the same process was
 
 The following [raincloud plot](https://wellcomeopenresearch.org/articles/4-63) shows that on average there is a slight decrease in the average distance between the MP and the Party. There is a clump of MPs with a decrease of around 0.4, with another set around -0.6 to 0.7.
 
-There are a small amount of MPs who have an increase in the party distance, with two outliers with a large increase in party distance. 
+There are a small amount of MPs who have an increase in the party distance, with the effect being especially noticeable for one MP. [note: a change after this analysis removes this shift, see Alba notes below].
 
 
     
